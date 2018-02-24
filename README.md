@@ -39,7 +39,7 @@ this file shows a simple example to visualize ground truth grasps
 
 ## Annotate your own data?
 ```
-git clone https://github.gatech.edu/fchu9/grasp_annotation_tool
+git clone https://github.com/ivalab/grasp_annotation_tool
 ```
 
 you can annotate grasps on your own data with this simple tool!
