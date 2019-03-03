@@ -46,6 +46,23 @@ you can annotate grasps on your own data with this simple tool!
 Both dataset and annotation tool can also be found [here](https://www.dropbox.com/s/cwko0qubmqoxehb/multiObj_multiGrasp.tar.gz?dl=0)
 
 
+## Citation
+If you find it helpful for your research, please consider citing:
 
+    @inproceedings{chu2018deep,
+      title = {Real-World Multiobject, Multigrasp Detection},
+      author = {F. Chu and R. Xu and P. A. Vela},
+      journal = {IEEE Robotics and Automation Letters},
+      year = {2018},
+      volume = {3},
+      number = {4},
+      pages = {3355-3362},
+      DOI = {10.1109/LRA.2018.2852777},
+      ISSN = {2377-3766},
+      month = {Oct}
+    }
+
+
+If you encounter any questions, please contact me at fujenchu[at]gatech[dot]edu
 
 
