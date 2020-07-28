@@ -3,6 +3,10 @@
 Robotic grasp dataset for multi-object multi-grasp evaluation with RGB-D data.   
 This dataset is annotated using the same protocal as [Cornell Dataset](http://pr.cs.cornell.edu/grasping/rect_data/data.php), and can be used as multi-object extension of Cornell Dataset.  
 
+<p align="center">
+<img src="https://github.com/ivalab/grasp_multiObject_multiGrasp/blob/master/fig/ivalab_dataset.png" alt="drawing" width="300"/>
+</p>
+
 ------------------------------
 
 ## Usage
